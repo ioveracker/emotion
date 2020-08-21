@@ -1,5 +1,11 @@
 # @emotion/react
 
+## 11.0.0-next.16
+
+### Patch Changes
+
+- [`58b2bbca`](https://github.com/emotion-js/emotion/commit/58b2bbcad63f8ea22389ccdc2a8f6c5064984e82) [#1981](https://github.com/emotion-js/emotion/pull/1981) Thanks [@Andarist](https://github.com/Andarist)! - Changed the key of the global flag that helps us identify that `@emotion/react` has been loaded more than once to include the current major version of `@emotion/react`.
+
 ## 11.0.0-next.15
 
 ### Minor Changes
